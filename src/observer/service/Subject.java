@@ -1,6 +1,6 @@
 package observer.service;
 
-import java.util.Observer;
+import observer.service.Observer;;
 
 public interface Subject {
     void registerObserver(Observer o);
